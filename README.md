@@ -1,4 +1,4 @@
-# 💝 Site Presente minha mulher
+# 💝 Site Presente para minha mulher
 
 <div align="center">
   <img src="./FOTOS/f" alt="Preview do site" width="600">
