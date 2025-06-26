@@ -1,5 +1,5 @@
-# 💝 Site Presente para minha namorada!
-
+# <div align="center">💝 Site Presente para minha namorada!
+<br>
 
 ## 💡 Sobre o Projeto
 ### O que é?<br>
@@ -17,6 +17,7 @@ Fotos, um contador de tempo desde que nos conhecemos, mensagens, música, entre 
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <br>
 
+<br>
 
 ## 📝 Aprendizados
 Este mini projeto foi meu primeiro contato real com desenvolvimento web. Aprendi, na prática:
