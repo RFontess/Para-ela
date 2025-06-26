@@ -1,5 +1,6 @@
 # 💝 Site Presente para minha namorada!
 
+
 ## 💡 Sobre o Projeto
 ### O que é?<br>
 Um mini site desenvolvido do zero, unindo aprendizado técnico com afeto pessoal. Foi a maneira que encontrei de praticar enquanto criava algo único e significativo para minha namorada. Cada elemento na página carrega um pouco do que estou aprendendo — e muito do que sinto por ela.
@@ -15,6 +16,7 @@ Fotos, um contador de tempo desde que nos conhecemos, mensagens, música, entre 
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <br>
+
 
 ## 📝 Aprendizados
 Este mini projeto foi meu primeiro contato real com desenvolvimento web. Aprendi, na prática:
