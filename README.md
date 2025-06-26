@@ -1,18 +1,14 @@
-# 💝 Site Presente para minha mulher
-
-<div align="center">
-  <img src="./FOTOS/f" alt="Preview do site" width="600">
-</div>
+# 💝 Site Presente para minha namorada!
 
 ## 💡 Sobre o Projeto
 ### O que é?<br>
-Um mini-site feito com carinho para minha namorada
+Um mini site desenvolvido do zero, unindo aprendizado técnico com afeto pessoal. Foi a maneira que encontrei de praticar enquanto criava algo único e significativo para minha namorada. Cada elemento na página carrega um pouco do que estou aprendendo — e muito do que sinto por ela.
 
 ### Por quê?<br>
-Depois que fiz o curso Discover da Rocketseat, queria colocar em prática o que aprendi para ver se consegui captar os conhecimentos de uma forma especial e pensei, porque não fazer algo de presente para ela?
+Estava revisando alguns conceitos de HTML e CSS e quis colocá-los em prática de uma forma especial. Pensei: por que não fazer algo de presente para ela?
 
 ### O que tem?<br>
-Fotos, um contador de tempo que nos conhecemos, mensagens, música e etc.
+Fotos, um contador de tempo desde que nos conhecemos, mensagens, música, entre outras coisas.
 
 ## 🧩 O que você usou?
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -21,7 +17,7 @@ Fotos, um contador de tempo que nos conhecemos, mensagens, música e etc.
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <br>
 
 ## 📝 Aprendizados
-Este projeto foi meu primeiro contato real com desenvolvimento web. Aprendi na prática:
+Este mini projeto foi meu primeiro contato real com desenvolvimento web. Aprendi, na prática:
 
 * **Estrutura semântica HTML**
 * **Estilização com CSS**
@@ -29,6 +25,6 @@ Este projeto foi meu primeiro contato real com desenvolvimento web. Aprendi na p
 * **Media queries para responsividade**
   
 ## 📌 Notas Pessoais
-Esse projeto foi meu primeiro contato prático com desenvolvimento web, e quis transformá-lo em algo especial. Cada linha de código foi escrita com tanto carinho quanto dúvidas de iniciante e o resultado significa mais do que apenas um site.
+Este projeto foi uma forma de tornar o início do meu aprendizado em algo mais real e memorável. Cada linha de código foi escrita com tanto carinho quanto dúvidas de iniciante — e o resultado significa mais do que apenas um site.
 
-<div align="center"> Feito com ❤️ e um pouco de código por Rafael
+<div align="center"> Feito com ❤️ e um pouco de código, por Rafael para Ana.
